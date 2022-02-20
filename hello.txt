@@ -1,1 +1,1 @@
-Hello, saya belajar membuat branch
+Hello, saya belajar membuat branch dan juga mencoba menyelesaikan merge conflict
